@@ -1,0 +1,14 @@
+{
+  "title": "Tango Unlimited",
+  "description": "A casual game featuring animated suns with balanced rays and a custom tab icon, delivering an engaging and visually appealing user experience.",
+  "icons": {
+    "icon": "/favicon.svg?v=2"
+  },
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
