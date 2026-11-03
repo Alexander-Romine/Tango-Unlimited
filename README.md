@@ -1,6 +1,6 @@
 # Tango Unlimited
 
-Fill a 6x6 grid with Suns and Moons under balance, adjacency and clue rules — with unlimited boards.
+Fill a 6x6 grid with Suns and Moons based on LinkedIn with unlimited boards.
 
 **Live site:** https://tango-unlimited.vercel.app
 
@@ -18,12 +18,12 @@ Fill a 6x6 grid with Suns and Moons under balance, adjacency and clue rules — 
 - Easy, Normal and Hard difficulties with hints
 - Optional conflict highlighting, plus new board and clear board actions
 - Timer with solve count, best time, average time and streaks
-- Dark and light themes, high contrast and color-blind symbol labels
-- Sound effects with volume control
+- Accessibility Settings
 
 ## Tech Stack
 
 - [Vite](https://vite.dev/)
 - React
 - TypeScript
+- HTML
 - Hosted on [Vercel](https://vercel.com)
